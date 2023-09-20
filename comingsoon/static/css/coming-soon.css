@@ -56,6 +56,11 @@ body {
   font-size: 2.5rem;
 }
 
+.shift-left {
+  margin-left: -1050px !important;
+}
+
+
 .masthead .masthead-content p {
   font-size: 1.2rem;
 }
