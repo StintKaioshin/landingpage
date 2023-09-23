@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["ultisocial.app",
                 "www.ultisocial.app",
+                "159.203.88.249",
                 ]
 
 
