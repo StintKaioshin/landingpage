@@ -8,4 +8,4 @@ def home(request):
 
 
 def terms_of_use(request):
-    return render(request, 'landingpage/terms_of_use.html')
+    return render(request, 'comingsoon/terms_of_use.html')
