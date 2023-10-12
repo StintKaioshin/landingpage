@@ -19,4 +19,5 @@ from django.urls import include, path
 urlpatterns = [
     path('', include('comingsoon.urls', namespace='comingsoon')),
     path('admin/', admin.site.urls),
+    path('terms-of-use/', views.terms_of_use, name='terms_of_use'),
 ]
